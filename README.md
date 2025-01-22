@@ -37,8 +37,8 @@ An exciting, fast-paced Telegram trivia game bot with real-time scoring, speed b
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/pytrivia-bot.git
-cd pytrivia-bot
+git clone https://github.com/ryuchi311/Quiz-Trivia-Telegram-bot-Game.git
+cd Pytriviagame
 ```
 
 2. **Install dependencies**
