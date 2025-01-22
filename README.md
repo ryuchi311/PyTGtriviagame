@@ -1,4 +1,4 @@
-# 🎮 PyTrivia Bot
+# 🎮 PyTrivia Telegram Bot
 
 An exciting, fast-paced Telegram trivia game bot with real-time scoring, speed bonuses, and competitive leaderboards!
 
